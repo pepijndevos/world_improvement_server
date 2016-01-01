@@ -1,7 +1,7 @@
 # If everyone would just...
 
 Be nice to each other and to the environment we live in, and use this service, the world would be a much better place.
-But what aer the odds, right?
+But what are the odds, right?
 
 ## World Improvement Server
 
