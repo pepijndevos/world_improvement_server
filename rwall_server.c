@@ -9,6 +9,7 @@ void * wallproc_wall_1_svc(wrapstring *s, struct svc_req *rqstp __unused) {
   sprintf(newfile, "motd%d.txt", msgno++);
   remove(newfile);
   rename("motd.txt", newfile);
+
   FILE *pfp;
   pfp = fopen("motd.txt", "w");
   if (pfp != NULL) {
