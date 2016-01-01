@@ -7,7 +7,7 @@ But what aer the odds, right?
 
 Is a server application using cutting-edge '80 technology such as the [QOTD protocol](https://en.wikipedia.org/wiki/QOTD) and [rwall](http://www.manpages.info/sunos/rwall.1.html) to broadcast immediate golbal change.
 
-Simply rwall your world improvement to the server where everyone can see it and **act** upon it.
+Simply `rwall 37.247.53.27` your world improvement to the server where everyone can see it and **act** upon it.
 
 ## Immediate global change is now within reach
 
